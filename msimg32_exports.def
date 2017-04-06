@@ -1,0 +1,6 @@
+EXPORTS
+vSetDdrawflag=__E__0__ @1
+AlphaBlend=__E__1__ @2
+DllInitialize=__E__2__ PRIVATE
+GradientFill=__E__3__ @4
+TransparentBlt=__E__4__ @5
